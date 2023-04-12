@@ -1,6 +1,2 @@
 # Tidy-finance-with-R (python version)
-There are codes translated from the book named Tidy finance with R to python which you can get from https://www.tidy-finance.org/.
-Most of my code reshow the result from this amazing code but some of them maybe not that 'Tidy'. If you have any improvement to these codes, please tell me.
-The data I put here can be downloaded from the internet, without crsp data which I cannot share. 
-To use those code, you should change your data path to your own. If having any questions, you are welcome to ask me. 
-If there are violition of rights, contact me and I will delete it.
+The material here consists of Python code translated from the book titled Tidy Finance with R, which you can get from https://www.tidy-finance.org/. Most of my code reproduces in Python the R code from this amazing book, but some of my code maybe not be that 'tidy'. Please let me know if you have any suggestions for improvements to my code. The data I use here can be downloaded from the internet without requiring access to CRSP data, which I cannot share. To use the code here, you should change the data path to the path on your own computer. If you have any questions, you are welcome to write to me. If there are violations of any rights, please contact me, and I will make the necessary corrections. Thank you very much for visiting my site and for your feedback. 
